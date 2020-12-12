@@ -14,5 +14,7 @@ la conección con la base de datos mysql (que previamente debemos crear con un n
 PORT=5000 // Puerto donde correra la aplicación
 
 NAME_DB= //Nombre de la base de datos mysql creada
+
 USER_DB= //Usuario de la base de datos creada
+
 PASSWORD_DB= //Contraseña del usuario de la base de datos crada
